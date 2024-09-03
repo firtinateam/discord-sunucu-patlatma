@@ -1,5 +1,5 @@
 # FIRTINA TEAM SUNUCU PATLATMA TOOL
-<img src="screenshots/start.jpg">
+<img src="start.jpg">
 
 
 # discord.com/invite/firtinateam
@@ -30,7 +30,7 @@ python main.py
 <br>
 
 ## 💊 Token Tools
-<img src="screenshots/fırtına-icon.png">
+<img src="fırtına-icon.png">
 
 <br>
 
